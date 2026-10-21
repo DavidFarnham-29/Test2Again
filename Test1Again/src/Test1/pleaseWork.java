@@ -16,6 +16,8 @@ public class pleaseWork {
 
 		
 		System.out.print(false);
+		
+		System.out.println("Hello world");
 	}
 
 }
